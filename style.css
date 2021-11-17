@@ -87,6 +87,10 @@ td {
   #box {
     width: 100px;
   }
+  #deo,
+  #remain {
+    font-size: 12px;
+  }
 }
 
 input[type="text"] {
